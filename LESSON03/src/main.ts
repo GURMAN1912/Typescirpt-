@@ -31,4 +31,4 @@ enum Grade{
     B,
     A
 }
-console.log(Grade.B);
+console.log(Grade.B );
